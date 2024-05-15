@@ -26,6 +26,7 @@
             margin: 0;
         }
 
+
         /* Navigation Styles */
         .link-container {
             display: flex;
@@ -34,15 +35,18 @@
             padding: 10px 0;
         }
 
+
         .link-box {
             border: 2px solid transparent;
             padding: 10px;
             transition: border-color 0.3s ease-in-out;
         }
 
+
         .link-box:hover {
             border-color: #e6006f;
         }
+
 
         /* Image Container Styles */
         .image-container {
@@ -54,6 +58,7 @@
             border: 2px solid #0073e6;
             border-radius: 5px;
         }
+
 
         img {
             width: 100px;
