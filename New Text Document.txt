@@ -12,6 +12,8 @@
             background-color: #6e335c;
         }
 
+
+
         /* Header Styles */
         header {
             background-color: #6e335c;
